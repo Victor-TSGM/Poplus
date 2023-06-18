@@ -1,0 +1,14 @@
+header {
+  height: 8rem;
+  width: 70%;
+  border: 3px solid white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #025d88;
+}
+
+h1 {
+  color: white;
+}

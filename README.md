@@ -57,10 +57,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/Victor-TSGM/Poplus.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd README-ecoleta
+$ cd pplus
 
 # Vá para a pasta server
 $ cd server
@@ -69,7 +69,7 @@ $ cd server
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+$ npm run start
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 
@@ -81,13 +81,13 @@ $ npm run dev:server
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/Victor-TSGM/Poplus.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
+$ cd pplus
 
 # Vá para a pasta da aplicação Front End
-$ cd web
+$ cd front/poplus
 
 # Instale as dependências
 $ npm install

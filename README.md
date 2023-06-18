@@ -40,7 +40,7 @@ Foi desenvolvido utilizando as tecnologias Node.JS para o back-end (API) e React
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em três partes:
+Este projeto é divido em duas partes:
 1. Backend (pasta server) 
 2. Frontend (pasta front)
 
